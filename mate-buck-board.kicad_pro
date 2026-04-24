@@ -667,7 +667,7 @@
         "uuid": "26b58ab7-3a5e-4f77-b8a2-71c1ffacd165"
       }
     ],
-    "used_designators": "JEXT1,#PWR1,#PWR14-24,PS1,F10,XT1,C10",
+    "used_designators": "#PWR2-3",
     "variants": []
   },
   "sheets": [

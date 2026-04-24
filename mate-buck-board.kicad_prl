@@ -52,7 +52,7 @@
       "board_outline_area",
       "ly_points"
     ],
-    "visible_layers": "ffffffff_ffffffff_fffff57f_fd5555f5",
+    "visible_layers": "ffffffff_ffffffff_ffffd57f_fd5555f5",
     "zone_display_mode": 1
   },
   "git": {
@@ -106,7 +106,32 @@
   },
   "open_jobsets": [],
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "mate-buck-board.kicad_pcb",
+        "open": true,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 0,
+          "pos_y": 0,
+          "size_x": 1280,
+          "size_y": 662
+        }
+      },
+      {
+        "name": "mate-buck-board.kicad_sch",
+        "open": true,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 0,
+          "pos_y": 0,
+          "size_x": 1280,
+          "size_y": 720
+        }
+      }
+    ]
   },
   "schematic": {
     "hierarchy_collapsed": [],
