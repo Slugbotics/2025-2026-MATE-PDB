@@ -3,4 +3,6 @@
 	(lib (name "ACS772ECB-200U-PFF-T") (type "KiCad") (uri "${KIPRJMOD}/ACS772ECB-200U-PFF-T/ACS772ECB-200U-PFF-T.kicad_sym") (options "") (descr ""))
 	(lib (name "DC-DC_Converters_HighPower") (type "KiCad") (uri "${KIPRJMOD}/DC-DC_Converters_HighPower/DC-DC_Converters_HighPower.kicad_sym") (options "") (descr ""))
 	(lib (name "2026-04-11_20-51-24") (type "KiCad") (uri "${KIPRJMOD}/KiCADv6/2026-04-11_20-51-24.kicad_sym") (options "") (descr ""))
+	(lib (name "Amass") (type "KiCad") (uri "C:/Users/seang/Downloads/Connector_AMASS.pretty/Amass.kicad_sym") (options "") (descr ""))
+	(lib (name "XT30_Connector") (type "KiCad") (uri "C:/Users/seang/XT30_Connector.kicad_sym") (options "") (descr ""))
 )

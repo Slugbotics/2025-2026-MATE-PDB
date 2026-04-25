@@ -17,17 +17,17 @@
     },
     "prototype_zone_fills": false,
     "selection_filter": {
-      "dimensions": true,
+      "dimensions": false,
       "footprints": true,
       "graphics": true,
-      "keepouts": true,
-      "lockedItems": false,
-      "otherItems": true,
-      "pads": true,
+      "keepouts": false,
+      "lockedItems": true,
+      "otherItems": false,
+      "pads": false,
       "text": true,
       "tracks": true,
-      "vias": true,
-      "zones": false
+      "vias": false,
+      "zones": true
     },
     "visible_items": [
       "vias",
@@ -52,7 +52,7 @@
       "board_outline_area",
       "ly_points"
     ],
-    "visible_layers": "ffffffff_ffffffff_fffff57f_fd5555f5",
+    "visible_layers": "ffffffff_ffffffff_fffff5ff_ff5555f5",
     "zone_display_mode": 1
   },
   "git": {
@@ -106,32 +106,7 @@
   },
   "open_jobsets": [],
   "project": {
-    "files": [
-      {
-        "name": "mate-buck-board.kicad_pcb",
-        "open": true,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 0,
-          "pos_y": 0,
-          "size_x": 1280,
-          "size_y": 573
-        }
-      },
-      {
-        "name": "mate-buck-board.kicad_sch",
-        "open": true,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 0,
-          "pos_y": 0,
-          "size_x": 1280,
-          "size_y": 720
-        }
-      }
-    ]
+    "files": []
   },
   "schematic": {
     "hierarchy_collapsed": [],
